@@ -24,6 +24,16 @@
         "path": "kanban-data234235325235.json"
       },
       "lastModified": "2024-11-05T20:05:46.890Z"
+    },
+    {
+      "id": "3ffafea0-46ce-4ae0-ba82-5ae04dadff4c",
+      "name": "BOARD3!",
+      "gitConfig": {
+        "owner": "michael-collins",
+        "repo": "3-json-save",
+        "path": "boad3.json"
+      },
+      "lastModified": "2024-11-05T20:34:39.127Z"
     }
   ]
 }
