@@ -4,5 +4,16 @@
     "repo": "kanban-test-app",
     "path": "kanban-config.json"
   },
-  "boards": []
+  "boards": [
+    {
+      "id": "a8f01257-2bcc-41c3-9bd8-afad28ae2f0f",
+      "name": "qerheqthetqrh",
+      "gitConfig": {
+        "owner": "michael-collins",
+        "repo": "3-json-save",
+        "path": "kanban-data.json"
+      },
+      "lastModified": "2024-11-05T19:37:09.565Z"
+    }
+  ]
 }
