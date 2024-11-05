@@ -3,5 +3,6 @@
     "owner": "michael-collins",
     "repo": "kanban-test-app",
     "path": "kanban-config.json"
-  }
+  },
+  "boards": []
 }
