@@ -1,9 +1,24 @@
 {
   "boards": [
     {
-      "id": "b643b750-a432-4733-9a45-cc911d3d9815",
-      "name": "Board",
-      "lastModified": "2024-11-05T18:41:48.816Z"
+      "id": "9e7728f7-cea1-42ad-b8ff-3097d56d415b",
+      "name": "dfnadgnt",
+      "gitConfig": {
+        "owner": "michael-collins",
+        "repo": "3-json-save",
+        "path": "kanban-data.json"
+      },
+      "lastModified": "2024-11-05T18:50:54.243Z"
+    },
+    {
+      "id": "016285f2-36ce-49fa-bf88-e228d08721b2",
+      "name": "wqrgqwerg",
+      "gitConfig": {
+        "owner": "michael-collins",
+        "repo": "3-json-save",
+        "path": "kanban-data.json"
+      },
+      "lastModified": "2024-11-05T18:51:22.220Z"
     }
   ],
   "gitConfig": {
