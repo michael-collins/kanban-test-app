@@ -14,6 +14,16 @@
         "path": "kanban-data.json"
       },
       "lastModified": "2024-11-05T19:37:09.565Z"
+    },
+    {
+      "id": "25afe6ef-a69e-4f5f-b864-4dc8109a1bda",
+      "name": "eqtheqtheqtheqth",
+      "gitConfig": {
+        "owner": "michael-collins",
+        "repo": "3-json-save",
+        "path": "kanban-data2.json"
+      },
+      "lastModified": "2024-11-05T19:37:27.003Z"
     }
   ]
 }
