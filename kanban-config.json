@@ -6,16 +6,6 @@
   },
   "boards": [
     {
-      "id": "3cfee18e-d152-4f3e-a9b3-7fffb0b4e7d6",
-      "name": "arraeh",
-      "gitConfig": {
-        "owner": "michael-collins",
-        "repo": "3-json-save",
-        "path": "kanban-data2.json"
-      },
-      "lastModified": "2024-11-05T20:06:36.733Z"
-    },
-    {
       "id": "bf33aaed-3b52-432d-90ec-b6fc0b0d9276",
       "name": "ererher",
       "gitConfig": {
