@@ -1,16 +1,5 @@
 {
-  "boards": [
-    {
-      "id": "016285f2-36ce-49fa-bf88-e228d08721b2",
-      "name": "wqrgqwerg",
-      "gitConfig": {
-        "owner": "michael-collins",
-        "repo": "3-json-save",
-        "path": "kanban-data.json"
-      },
-      "lastModified": "2024-11-05T18:51:22.220Z"
-    }
-  ],
+  "boards": [],
   "gitConfig": {
     "owner": "michael-collins",
     "repo": "kanban-test-app",
