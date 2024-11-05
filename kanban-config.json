@@ -1,5 +1,11 @@
 {
-  "boards": [],
+  "boards": [
+    {
+      "id": "b643b750-a432-4733-9a45-cc911d3d9815",
+      "name": "Board",
+      "lastModified": "2024-11-05T18:41:48.816Z"
+    }
+  ],
   "gitConfig": {
     "owner": "michael-collins",
     "repo": "kanban-test-app",
