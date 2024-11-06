@@ -36,16 +36,6 @@
       "lastModified": "2024-11-05T20:40:00.511Z"
     },
     {
-      "id": "b021fcec-54dc-4594-adce-2b048a726db7",
-      "name": "something",
-      "gitConfig": {
-        "owner": "michael-collins",
-        "repo": "3-json-save",
-        "path": "something.json"
-      },
-      "lastModified": "2024-11-05T20:51:20.454Z"
-    },
-    {
       "id": "c2d77281-de14-4452-8096-be695ea67d15",
       "name": "123",
       "gitConfig": {
