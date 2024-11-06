@@ -34,16 +34,6 @@
         "path": "mrboard-and-sones.json"
       },
       "lastModified": "2024-11-05T20:40:00.511Z"
-    },
-    {
-      "id": "c2d77281-de14-4452-8096-be695ea67d15",
-      "name": "123",
-      "gitConfig": {
-        "owner": "michael-collins",
-        "repo": "3-json-save",
-        "path": "123.json"
-      },
-      "lastModified": "2024-11-05T20:56:12.449Z"
     }
   ]
 }
