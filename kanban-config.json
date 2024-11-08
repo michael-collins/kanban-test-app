@@ -6,16 +6,6 @@
   },
   "boards": [
     {
-      "id": "d63ec6f5-81a7-47e5-ac21-b746053cb655",
-      "name": "wtrntrn",
-      "gitConfig": {
-        "owner": "michael-collins",
-        "repo": "kanban-test-app",
-        "path": "libraries/stuff.json"
-      },
-      "lastModified": "2024-11-08T01:17:17.825Z"
-    },
-    {
       "id": "e85c5721-b545-4c5f-9c37-b903f17440b2",
       "name": "My stuff!",
       "gitConfig": {
