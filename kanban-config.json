@@ -6,16 +6,6 @@
   },
   "boards": [
     {
-      "id": "0e41da6d-58de-49ab-8964-6f9f9bae7db3",
-      "name": "789",
-      "gitConfig": {
-        "owner": "michael-collins",
-        "repo": "3-json-save",
-        "path": "789.json"
-      },
-      "lastModified": "2024-11-06T14:34:12.046Z"
-    },
-    {
       "id": "b489ac1e-056b-498a-83dc-82f8a62811a1",
       "name": "thins",
       "gitConfig": {
