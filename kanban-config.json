@@ -14,6 +14,16 @@
         "path": "boards/123451435.json"
       },
       "lastModified": "2024-11-08T07:32:27.395Z"
+    },
+    {
+      "id": "25f44269-f505-4c48-954b-fccca8200118",
+      "name": "Something new",
+      "gitConfig": {
+        "owner": "michael-collins",
+        "repo": "kanban-test-app",
+        "path": "boards/something-new.json"
+      },
+      "lastModified": "2024-11-08T07:57:14.865Z"
     }
   ],
   "libraries": [
