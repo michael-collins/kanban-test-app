@@ -6,16 +6,6 @@
   },
   "boards": [
     {
-      "id": "3f153f3c-227e-4178-9fd9-7e00c205cdfd",
-      "name": "Mrboard and sones!!#@$@",
-      "gitConfig": {
-        "owner": "michael-collins",
-        "repo": "3-json-save",
-        "path": "mrboard-and-sones.json"
-      },
-      "lastModified": "2024-11-05T20:40:00.511Z"
-    },
-    {
       "id": "0e41da6d-58de-49ab-8964-6f9f9bae7db3",
       "name": "789",
       "gitConfig": {
