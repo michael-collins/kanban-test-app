@@ -88,16 +88,6 @@
         "category",
         "associatedmaterial"
       ]
-    },
-    {
-      "id": "e238f886-a7b5-46f2-8e3b-864f26a099f5",
-      "name": "stuff4",
-      "gitConfig": {
-        "owner": "michael-collins",
-        "repo": "kanban-test-app",
-        "path": "libraries/stuff4.csv"
-      },
-      "lastModified": "2024-11-08T04:43:56.564Z"
     }
   ]
 }
