@@ -52,6 +52,22 @@
         "category",
         "associatedmaterial"
       ]
+    },
+    {
+      "id": "54399e09-373b-4629-a5e8-25846e9a91b0",
+      "name": "stuff9",
+      "gitConfig": {
+        "owner": "michael-collins",
+        "repo": "kanban-test-app",
+        "path": "libraries/stuff9.csv"
+      },
+      "lastModified": "2024-11-08T08:42:43.724Z",
+      "fields": [
+        "name",
+        "introduction",
+        "type",
+        "links"
+      ]
     }
   ]
 }
