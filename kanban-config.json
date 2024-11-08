@@ -104,6 +104,22 @@
         "taxonomy",
         "links"
       ]
+    },
+    {
+      "id": "af9364cf-6fee-4acf-8326-e4d5f6d8cd54",
+      "name": "things-taxonomy7",
+      "gitConfig": {
+        "owner": "michael-collins",
+        "repo": "kanban-test-app",
+        "path": "libraries/things-taxonomy7.csv"
+      },
+      "lastModified": "2024-11-08T06:33:16.723Z",
+      "fields": [
+        "name",
+        "overview",
+        "taxonomy",
+        "links"
+      ]
     }
   ]
 }
