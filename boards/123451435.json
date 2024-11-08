@@ -19,5 +19,21 @@
       "order": 2
     }
   ],
-  "tasks": []
+  "tasks": [
+    {
+      "id": "task--Infinity",
+      "status": "column-2",
+      "title": "12345",
+      "description": "12451435\n\nTerm: Real-world scale\nDefinition: Real-world scale in 3D modeling refers to creating virtual objects or environments that are accurately proportioned and sized in relation to their real-world counterparts. This means that the dimensions of the 3D model match the dimensions of the actual object or environment, and that the model can be used to simulate real-world scenarios or to produce physical objects through techniques such as 3D printing. Real-world scale is important in many fields, including architecture, product design, and animation, as it allows designers and artists to create accurate and realistic representations of real-world objects and environments.\nCategory: animation\nAssociated Material: undefined",
+      "priority": "medium",
+      "dueDate": "",
+      "hyperTags": [
+        {
+          "term": "Real-world scale",
+          "libraryItemId": "82f13a6d-f8d6-4ce0-8fe8-eb594656513f-item-737",
+          "libraryFileId": "82f13a6d-f8d6-4ce0-8fe8-eb594656513f"
+        }
+      ]
+    }
+  ]
 }
