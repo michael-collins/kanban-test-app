@@ -54,6 +54,16 @@
         "path": "libraries/stuff.json"
       },
       "lastModified": "2024-11-08T01:17:17.825Z"
+    },
+    {
+      "id": "e85c5721-b545-4c5f-9c37-b903f17440b2",
+      "name": "My stuff!",
+      "gitConfig": {
+        "owner": "",
+        "repo": "",
+        "path": "boards/my-stuff.json"
+      },
+      "lastModified": "2024-11-08T06:51:36.205Z"
     }
   ],
   "libraries": [
