@@ -56,16 +56,5 @@
       "lastModified": "2024-11-08T01:17:17.825Z"
     }
   ],
-  "libraries": [
-    {
-      "id": "7d63590e-6622-4ce0-91f8-c9e7f774ea35",
-      "name": "stuff",
-      "gitConfig": {
-        "owner": "michael-collins",
-        "repo": "kanban-test-app",
-        "path": "libraries/stuff.csv"
-      },
-      "lastModified": "2024-11-08T02:23:49.250Z"
-    }
-  ]
+  "libraries": []
 }
