@@ -136,6 +136,22 @@
         "type",
         "links"
       ]
+    },
+    {
+      "id": "67756c8b-37a6-4385-a9e1-1ffd485be44a",
+      "name": "stuff10",
+      "gitConfig": {
+        "owner": "michael-collins",
+        "repo": "kanban-test-app",
+        "path": "libraries/stuff10.csv"
+      },
+      "lastModified": "2024-11-08T06:38:15.499Z",
+      "fields": [
+        "name",
+        "introduction",
+        "type",
+        "links"
+      ]
     }
   ]
 }
