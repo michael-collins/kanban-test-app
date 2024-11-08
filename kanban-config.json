@@ -6,16 +6,6 @@
   },
   "boards": [
     {
-      "id": "4f3e0629-c5af-4b8e-80ed-bc35b1e37d9a",
-      "name": "a thing",
-      "gitConfig": {
-        "owner": "michael-collins",
-        "repo": "kanban-test-app",
-        "path": "boards/a-thing.json"
-      },
-      "lastModified": "2024-11-08T07:26:21.863Z"
-    },
-    {
       "id": "be24ad28-8eed-411f-98aa-46489fca1bc0",
       "name": "123451435",
       "gitConfig": {
