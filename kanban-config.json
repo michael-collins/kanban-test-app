@@ -65,7 +65,13 @@
         "repo": "kanban-test-app",
         "path": "libraries/stuff.csv"
       },
-      "lastModified": "2024-11-08T04:03:11.909Z"
+      "lastModified": "2024-11-08T04:03:11.909Z",
+      "fields": [
+        "term",
+        "definition",
+        "category",
+        "associatedmaterial"
+      ]
     },
     {
       "id": "ff9d8ac6-433e-48dc-b7d5-8c47a16c9ba9",
@@ -75,7 +81,23 @@
         "repo": "kanban-test-app",
         "path": "libraries/stuff2.csv"
       },
-      "lastModified": "2024-11-08T04:14:18.366Z"
+      "lastModified": "2024-11-08T04:14:18.366Z",
+      "fields": [
+        "term",
+        "definition",
+        "category",
+        "associatedmaterial"
+      ]
+    },
+    {
+      "id": "e238f886-a7b5-46f2-8e3b-864f26a099f5",
+      "name": "stuff4",
+      "gitConfig": {
+        "owner": "michael-collins",
+        "repo": "kanban-test-app",
+        "path": "libraries/stuff4.csv"
+      },
+      "lastModified": "2024-11-08T04:43:56.564Z"
     }
   ]
 }
