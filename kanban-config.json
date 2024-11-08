@@ -90,22 +90,6 @@
         "taxonomy",
         "links"
       ]
-    },
-    {
-      "id": "a309689f-bff4-4786-9874-68080a133e61",
-      "name": "stuff9",
-      "gitConfig": {
-        "owner": "michael-collins",
-        "repo": "kanban-test-app",
-        "path": "libraries/stuff9.csv"
-      },
-      "lastModified": "2024-11-08T06:35:38.352Z",
-      "fields": [
-        "name",
-        "introduction",
-        "type",
-        "links"
-      ]
     }
   ]
 }
