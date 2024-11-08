@@ -42,22 +42,6 @@
         "category",
         "associatedmaterial"
       ]
-    },
-    {
-      "id": "6e9ac743-cf7e-4322-8891-93cca905fdba",
-      "name": "things-taxonomy",
-      "gitConfig": {
-        "owner": "michael-collins",
-        "repo": "kanban-test-app",
-        "path": "libraries/things-taxonomy.csv"
-      },
-      "lastModified": "2024-11-08T06:28:30.979Z",
-      "fields": [
-        "name",
-        "overview",
-        "taxonomy",
-        "links"
-      ]
     }
   ]
 }
