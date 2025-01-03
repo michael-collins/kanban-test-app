@@ -84,16 +84,6 @@
         "path": "boards/2345.json"
       },
       "lastModified": "2024-11-08T09:03:55.761Z"
-    },
-    {
-      "id": "5f8d4ffc-3fb8-4a06-aebe-d632093f8d25",
-      "name": "thing",
-      "gitConfig": {
-        "owner": "michael-collins",
-        "repo": "kanban-test-app",
-        "path": "boards/thing.json"
-      },
-      "lastModified": "2025-01-03T05:01:35.726Z"
     }
   ],
   "libraries": [
