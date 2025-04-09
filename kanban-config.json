@@ -36,6 +36,16 @@
         "path": "libraries/stuff.csv"
       },
       "lastModified": "2025-04-09T13:31:33.483Z"
+    },
+    {
+      "id": "4d313e96-fe38-4acb-b64a-0871ec53d36f",
+      "name": "Artists",
+      "gitConfig": {
+        "owner": "michael-collins",
+        "repo": "test-data",
+        "path": "libraries/stuff2.csv"
+      },
+      "lastModified": "2025-04-09T13:45:31.539Z"
     }
   ]
 }
