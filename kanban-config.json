@@ -6,118 +6,36 @@
   },
   "boards": [
     {
-      "id": "be24ad28-8eed-411f-98aa-46489fca1bc0",
-      "name": "123451435",
+      "id": "26a72949-0fec-4495-9008-59b15e3276a4",
+      "name": "My New Board",
       "gitConfig": {
         "owner": "michael-collins",
-        "repo": "kanban-test-app",
-        "path": "boards/123451435.json"
+        "repo": "test-data",
+        "path": "boards/my-new-board.json"
       },
-      "lastModified": "2024-11-08T07:32:27.395Z"
+      "lastModified": "2025-04-09T13:25:27.595Z"
     },
     {
-      "id": "fee7f43a-0c23-45aa-8cfe-6cb4d2bfb976",
-      "name": "654654",
+      "id": "75645607-e533-4d0a-8579-261faa40fd33",
+      "name": "1524154125135",
       "gitConfig": {
         "owner": "michael-collins",
-        "repo": "kanban-test-app",
-        "path": "boards/654654.json"
+        "repo": "test-data",
+        "path": "boards/1524154125135.json"
       },
-      "lastModified": "2024-11-08T08:31:23.677Z"
-    },
-    {
-      "id": "6eec79a2-4890-4c7d-b14c-fb1fe97d7cb1",
-      "name": "25",
-      "gitConfig": {
-        "owner": "michael-collins",
-        "repo": "kanban-test-app",
-        "path": "boards/25.json"
-      },
-      "lastModified": "2024-11-08T08:33:22.339Z"
-    },
-    {
-      "id": "18b580c8-4583-48f1-9424-43836f4117cb",
-      "name": "567",
-      "gitConfig": {
-        "owner": "michael-collins",
-        "repo": "kanban-test-app",
-        "path": "boards/567.json"
-      },
-      "lastModified": "2024-11-08T08:53:40.541Z"
-    },
-    {
-      "id": "34f3468d-1ed7-41c6-b1c3-9637dc99bc53",
-      "name": "647867",
-      "gitConfig": {
-        "owner": "michael-collins",
-        "repo": "kanban-test-app",
-        "path": "boards/647867.json"
-      },
-      "lastModified": "2024-11-08T08:53:49.272Z"
-    },
-    {
-      "id": "cefb67bb-4e1d-4048-a949-954d87866c0d",
-      "name": "46786478",
-      "gitConfig": {
-        "owner": "michael-collins",
-        "repo": "kanban-test-app",
-        "path": "boards/46786478.json"
-      },
-      "lastModified": "2024-11-08T08:54:02.085Z"
-    },
-    {
-      "id": "2c626b83-c161-4ad7-881b-c8112912daa8",
-      "name": "123542145",
-      "gitConfig": {
-        "owner": "michael-collins",
-        "repo": "kanban-test-app",
-        "path": "boards/123542145.json"
-      },
-      "lastModified": "2024-11-08T08:55:41.705Z"
-    },
-    {
-      "id": "ff36cdd0-6d41-4298-9833-ead863a981b9",
-      "name": "2345",
-      "gitConfig": {
-        "owner": "michael-collins",
-        "repo": "kanban-test-app",
-        "path": "boards/2345.json"
-      },
-      "lastModified": "2024-11-08T09:03:55.761Z"
+      "lastModified": "2025-04-09T13:26:25.199Z"
     }
   ],
   "libraries": [
     {
-      "id": "82f13a6d-f8d6-4ce0-8fe8-eb594656513f",
-      "name": "stuff",
+      "id": "12bfc33b-7859-48f2-8de0-18f94d8bd41c",
+      "name": "Critique tags",
       "gitConfig": {
         "owner": "michael-collins",
         "repo": "kanban-test-app",
         "path": "libraries/stuff.csv"
       },
-      "lastModified": "2024-11-08T04:57:32.586Z",
-      "fields": [
-        "term",
-        "definition",
-        "category",
-        "associatedmaterial"
-      ]
-    },
-    {
-      "id": "54399e09-373b-4629-a5e8-25846e9a91b0",
-      "name": "stuff9",
-      "gitConfig": {
-        "owner": "michael-collins",
-        "repo": "kanban-test-app",
-        "path": "libraries/stuff9.csv"
-      },
-      "lastModified": "2024-11-08T08:42:43.724Z",
-      "fields": [
-        "name",
-        "introduction",
-        "type",
-        "links"
-      ]
+      "lastModified": "2025-04-09T13:31:33.483Z"
     }
   ]
 }
