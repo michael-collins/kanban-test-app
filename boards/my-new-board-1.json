@@ -1,0 +1,33 @@
+{
+  "columns": [
+    {
+      "id": "column-1",
+      "title": "To Do",
+      "tasks": [],
+      "order": 0
+    },
+    {
+      "id": "column-2",
+      "title": "In Progress",
+      "tasks": [],
+      "order": 1
+    },
+    {
+      "id": "column-3",
+      "title": "Done",
+      "tasks": [],
+      "order": 2
+    }
+  ],
+  "tasks": [
+    {
+      "id": "task-4",
+      "status": "column-1",
+      "title": "task 1",
+      "description": "wergerg",
+      "priority": "medium",
+      "dueDate": "2025-04-09",
+      "hyperTags": []
+    }
+  ]
+}
